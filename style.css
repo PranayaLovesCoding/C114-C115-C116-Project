@@ -1,0 +1,11 @@
+canvas{
+    border: 5px solid;
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+background: url("background.jpg");
+}
+.heading{
+    font-size: larger;
+}
